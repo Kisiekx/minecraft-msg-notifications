@@ -1,5 +1,5 @@
 # Minecraft Msg Notifications
-
+#### This project was made in April 2021
 Do you love playing Minecraft, but hate having to constantly check the chat for mentions? Well, this project is for you!
 
 This is a simple Python script that plays a sound when somebody mentions you in the chat. That way, you can keep playing without having to worry about missing any important messages.
